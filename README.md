@@ -58,8 +58,6 @@ components and licenses is available inside of Docker from `About Docker
 
 Some notable components include:
 
- * [HyperKit](https://github.com/docker/hyperkit/), a toolkit for
-   embedding hypervisor capabilities in your application
  * [DataKit](https://github.com/docker/hyperkit/), a tool to orchestrate
    applications using a 9P dataflow
  * [VPNKit](https://github.com/docker/vpnkit), a set of tools and
