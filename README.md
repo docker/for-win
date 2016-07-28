@@ -20,8 +20,8 @@ Problems with the Docker for Windows software can be filed as issues in this
 
 ### This Repository
 
-This repository contains an issue tracker for Docker for Windows -- the
-easiest way to use Docker on Microsoft Windows! If you find a problem
+This repository contains an issue tracker for Docker for Windows -- an
+integrated Docker experience on Microsoft Windows. If you find a problem
 with the software, first [browse the existing
 issues](https://github.com/docker/for-win/issues) or search from the bar
 at the top (`s` to focus) and then, if you don't find your issue, [open
