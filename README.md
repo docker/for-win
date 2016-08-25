@@ -46,6 +46,7 @@ labels is roughly:
 | [area/storage](https://github.com/docker/for-win/labels/area/storage)     | related to image and container storage ([storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/)) |
 | [area/volumes](https://github.com/docker/for-win/labels/area/volumes)     | related to Docker volumes ([volume drivers](https://docs.docker.com/engine/reference/commandline/volume_create/)) |
 | [area/windows](https://github.com/docker/for-win/labels/area/windows)         | related to Windows integration |
+| [area/installer](https://github.com/docker/for-win/labels/area/installer)         | related to the installer/un-installer |
 | [kind/bug](https://github.com/docker/for-win/labels/kind/bug)         | this issue describes a defect |
 | [kind/docs](https://github.com/docker/for-win/labels/kind/docs)        | this issue describes a documentation change |
 | [kind/enhancement](https://github.com/docker/for-win/labels/kind/enhancement) | this issue describes a change to existing functionality |
