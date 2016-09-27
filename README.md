@@ -45,6 +45,7 @@ labels is roughly:
 | [area/notary](https://github.com/docker/for-win/labels/area/notary)      | related to [docker/notary](https://github.com/docker/notary) |
 | [area/storage](https://github.com/docker/for-win/labels/area/storage)     | related to image and container storage ([storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/)) |
 | [area/volumes](https://github.com/docker/for-win/labels/area/volumes)     | related to Docker volumes ([volume drivers](https://docs.docker.com/engine/reference/commandline/volume_create/)) |
+| [area/wincon](https://github.com/docker/for-win/labels/area/wincon)         | related to Windows Containers |
 | [area/windows](https://github.com/docker/for-win/labels/area/windows)         | related to Windows integration |
 | [area/installer](https://github.com/docker/for-win/labels/area/installer)         | related to the installer/un-installer |
 | [kind/bug](https://github.com/docker/for-win/labels/kind/bug)         | this issue describes a defect |
