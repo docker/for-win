@@ -54,6 +54,14 @@ labels is roughly:
 | [kind/feature](https://github.com/docker/for-win/labels/kind/feature)     | this issue describes totally new functionality |
 | [kind/performance](https://github.com/docker/for-win/labels/kind/performance) | this issue describes a performance problem or measurement |
 | [status/more-info-needed](https://github.com/docker/for-win/labels/status/more-info-needed) | Awaiting more information from the reporter of the issue |
+| [status/0-triage](https://github.com/docker/for-win/labels/status/0-triage) | The issue needs triaging |
+| [status/0-wont-fix](https://github.com/docker/for-win/labels/status/0-wont-fix) | This issue will not be fixed and therefore can be closed |
+| [status/0-more-info-needed](https://github.com/docker/for-win/labels/status/0-more-info-needed) | The issue needs more information before it can be triaged |
+| [status/1-acknowledged](https://github.com/docker/for-win/labels/status/1-acknowledged) | The issue has been triaged and is being investigated |
+| [status/2-in-progress](https://github.com/docker/for-win/labels/status/2-in-progress) | The issue has been assigned to a engineer and is waiting a fix |
+| [status/3-fixed](https://github.com/docker/for-win/labels/status/3-fixed) | The issue has been fixed in `master` |
+| [status/4-fix-released-beta](https://github.com/docker/for-win/labels/status/4-fix-released-beta) | The fix has been released! |
+| [status/4-fix-released-stable](https://github.com/docker/for-win/labels/status/4-fix-released-stable) | The fix has been released! |
 
 ### Component Projects
 
