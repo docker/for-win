@@ -61,6 +61,7 @@ labels is roughly:
 | [status/3-fixed](https://github.com/docker/for-win/labels/status/3-fixed) | The issue has been fixed in `master` |
 | [status/4-fix-released-beta](https://github.com/docker/for-win/labels/status/4-fix-released-beta) | The fix has been released! |
 | [status/4-fix-released-stable](https://github.com/docker/for-win/labels/status/4-fix-released-stable) | The fix has been released! |
+| [status/5-will-be-closed](https://github.com/docker/for-win/labels/status/5-will-be-closed) | The issue will be closed in a few days |
 
 ### Component Projects
 
