@@ -39,6 +39,7 @@ labels is roughly:
 | [area/compose](https://github.com/docker/for-win/labels/area/compose)     | related to [docker/compose](https://github.com/docker/compose) |
 | [area/database](https://github.com/docker/for-win/labels/area/database)     | related to the configuration database |
 | [area/docker](https://github.com/docker/for-win/labels/area/docker)      | related to the Docker engine ([docker/docker](https://github.com/docker/docker)) |
+| [area/firewall](https://github.com/docker/for-win/labels/area/firewall)         | related to Firewall |
 | [area/gui](https://github.com/docker/for-win/labels/area/gui)         | related to the Graphical User Interface |
 | [area/linux](https://github.com/docker/for-win/labels/area/linux)       | related to the Linux component |
 | [area/mounts](https://github.com/docker/for-win/labels/area/mounts)      | related to `-v` bind mounts |
