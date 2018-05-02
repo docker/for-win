@@ -1,27 +1,27 @@
-## Docker for Windows
+## Docker CE for Windows
 
-### Getting Docker for Windows
+### Getting Docker CE for Windows
 
-Docker for Windows is free to [download](https://www.docker.com/products/docker#/windows).
+"Docker CE for Windows" is free to [download](https://www.docker.com/products/docker#/windows).
 
 ### Documentation
 
-If you don't understand something about Docker for Windows, the [extensive
+If you don't understand something about Docker CE for Windows, the [extensive
 documentation](https://docs.docker.com/docker-for-windows/) is a great place
 to look for answers.
 
 ### Support
 
-Users from the Docker community trade tips and tricks and discuss Docker
+Users from the Docker CE community trade tips and tricks and discuss Docker CE
 for Windows in [the user forum](https://forums.docker.com/c/docker-for-windows).
 
-Problems with the Docker for Windows software can be filed as issues in this
+Problems with the Docker CE for Windows software can be filed as issues in this
 ([docker/for-win](https://github.com/docker/for-win)) repository.
 
 ### This Repository
 
-This repository contains an issue tracker for Docker for Windows -- an
-integrated Docker experience on Microsoft Windows. If you find a problem
+This repository contains an issue tracker for Docker CE for Windows -- an
+integrated Docker CE experience on Microsoft Windows. If you find a problem
 with the software, first [browse the existing
 issues](https://github.com/docker/for-win/issues) or search from the bar
 at the top (`s` to focus) and then, if you don't find your issue, [open
