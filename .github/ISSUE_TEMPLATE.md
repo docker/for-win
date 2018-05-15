@@ -1,5 +1,5 @@
 <!--
-Please, check https://docs.docker.com/docker-for-win/troubleshoot/.
+Please, check https://docs.docker.com/docker-for-windows/troubleshoot/.
 Issues without logs and details cannot be debugged, and will be closed.
 
 Replace `- [ ]` with `- [x]`, or click after having submitted the issue.
