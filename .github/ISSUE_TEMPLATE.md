@@ -2,14 +2,18 @@
 Please, check https://docs.docker.com/docker-for-windows/troubleshoot/.
 Issues without logs and details cannot be debugged, and will be closed.
 
-Replace `- [ ]` with `- [x]`, or click after having submitted the issue.
+Issues unrelated to Docker for Mac will be closed.  In particular, see
+  - https://github.com/docker/compose/issues for docker-compose
+  - https://github.com/docker/machine/issues for docker-machine
+  - https://github.com/moby/moby/issues for Docker daemon
+  - https://github.com/docker/docker.github.io/issues for the documentation
 -->
 
+
+<!-- Replace `- [ ]` with `- [x]`, or click after having submitted the issue. -->
   - [ ] I have tried with the latest version of my channel (Stable or Edge)
-  - [ ] I have submitted Diagnostics
-  - [ ] I have included the Diagnostics ID in this Issue
-  - Windows Version:
-  - Docker for Windows Version:
+  - [ ] I have uploaded Diagnostics
+  - Diagnostics ID:
 
 ### Expected behavior
 
@@ -17,13 +21,19 @@ Replace `- [ ]` with `- [x]`, or click after having submitted the issue.
 
 ### Information
 <!--
-  - Diagnostic ID from "Diagnose & Feedback" in the menu.
-  - a reproducible case if this is a bug, Dockerfiles FTW
-  - page URL if this is a docs issue or the name of a man page
-  - host distribution and version (Windows version, build number, etc)
+Please, help us understand the problem.  For instance:
+  - Is it reproducible?
+  - Is the problem new?
+  - Did the problem appear with an update?
+  - A reproducible case if this is a bug, Dockerfiles FTW.
 -->
+  - Windows Version:
+  - Docker for Windows Version:
 
 ### Steps to reproduce the behavior
+<!--
+A reproducible case, Dockerfiles FTW.
+-->
 
   1. ...
   2. ...
