@@ -2,7 +2,7 @@
 Please, check https://docs.docker.com/docker-for-windows/troubleshoot/.
 Issues without logs and details cannot be debugged, and will be closed.
 
-Issues unrelated to Docker for Mac will be closed.  In particular, see
+Issues unrelated to Docker for Windows will be closed.  In particular, see
   - https://github.com/docker/compose/issues for docker-compose
   - https://github.com/docker/machine/issues for docker-machine
   - https://github.com/moby/moby/issues for Docker daemon
