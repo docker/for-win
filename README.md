@@ -2,7 +2,7 @@
 
 ### Getting Docker Desktop for Windows
 
-"Docker Desktop" is free to [download](https://www.docker.com/products/docker#/windows).
+"Docker Desktop" is free to [download](https://hub.docker.com/editions/community/docker-ce-desktop-windows).
 
 ### Documentation
 
