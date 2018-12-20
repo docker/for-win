@@ -1,27 +1,27 @@
-## Docker CE for Windows
+## Docker Desktop for Windows
 
-### Getting Docker CE for Windows
+### Getting Docker Desktop for Windows
 
-"Docker CE for Windows" is free to [download](https://www.docker.com/products/docker#/windows).
+"Docker Desktop" is free to [download](https://www.docker.com/products/docker#/windows).
 
 ### Documentation
 
-If you don't understand something about Docker CE for Windows, the [extensive
+If you don't understand something about Docker Desktop for Windows, the [extensive
 documentation](https://docs.docker.com/docker-for-windows/) is a great place
 to look for answers.
 
 ### Support
 
-Users from the Docker CE community trade tips and tricks and discuss Docker CE
+Users from the Docker Desktop community trade tips and tricks and discuss Docker Desktop
 for Windows in [the user forum](https://forums.docker.com/c/docker-for-windows).
 
-Problems with the Docker CE for Windows software can be filed as issues in this
+Problems with the Docker Desktop for Windows software can be filed as issues in this
 ([docker/for-win](https://github.com/docker/for-win)) repository.
 
 ### This Repository
 
-This repository contains an issue tracker for Docker CE for Windows -- an
-integrated Docker CE experience on Microsoft Windows. If you find a problem
+This repository contains an issue tracker for Docker Desktop for Windows -- an
+integrated Docker experience on Microsoft Windows. If you find a problem
 with the software, first [browse the existing
 issues](https://github.com/docker/for-win/issues) or search from the bar
 at the top (`s` to focus) and then, if you don't find your issue, [open
@@ -67,7 +67,7 @@ labels is roughly:
 
 ### Component Projects
 
-Docker for Windows uses many open source components. A full list of
+Docker Desktop for Windows uses many open source components. A full list of
 components and licenses is available inside of Docker from `About Docker
 -> Acknowledgements` in the :whale: menu.
 
