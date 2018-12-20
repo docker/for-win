@@ -13,7 +13,7 @@ to look for answers.
 ### Support
 
 Users from the Docker Desktop community trade tips and tricks and discuss Docker Desktop
-for Windows in [the user forum](https://forums.docker.com/c/docker-for-windows).
+for Windows in [the user forum](https://forums.docker.com/c/docker-desktop-for-windows).
 
 Problems with the Docker Desktop for Windows software can be filed as issues in this
 ([docker/for-win](https://github.com/docker/for-win)) repository.
