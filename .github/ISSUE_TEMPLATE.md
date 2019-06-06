@@ -2,7 +2,7 @@
 Please, check https://docs.docker.com/docker-for-windows/troubleshoot/.
 Issues without logs and details cannot be debugged, and will be closed.
 
-Issues unrelated to Docker Desktop for Windows will be closed.  In particular, see
+Issues unrelated to Docker Desktop will be closed.  In particular, see
   - https://github.com/moby/moby/issues for Docker daemon, e.g. running on Windows Server with Docker EE
   - https://github.com/docker/compose/issues for docker-compose
   - https://github.com/docker/machine/issues for docker-machine
@@ -28,7 +28,7 @@ Please, help us understand the problem.  For instance:
   - A reproducible case if this is a bug, Dockerfiles with reproduction inside is best.
 -->
   - Windows Version:
-  - Docker for Windows Version:
+  - Docker Desktop Version:
 
 ### Steps to reproduce the behavior
 <!--
