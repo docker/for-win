@@ -11,6 +11,7 @@ Issues unrelated to Docker Desktop will be closed.  In particular, see
 
 
 <!-- Replace `- [ ]` with `- [x]`, or click after having submitted the issue. -->
+<!-- Download Docker Desktop 'Edge' (latest build) here: https://hub.docker.com/editions/community/docker-ce-desktop-windows -->
   - [ ] I have tried with the latest version of my channel (Stable or Edge)
   - [ ] I have uploaded Diagnostics
   - Diagnostics ID:
