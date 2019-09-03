@@ -9,8 +9,7 @@ Issues unrelated to Docker Desktop will be closed.  In particular, see
   - https://github.com/docker/docker.github.io/issues for the documentation
 -->
 
-
-<!-- Replace `- [ ]` with `- [x]`, or click after having submitted the issue. -->
+<!-- Click these checkboxes after submitting. -->
 <!-- Download Docker Desktop 'Edge' (latest build) here: https://hub.docker.com/editions/community/docker-ce-desktop-windows -->
   - [ ] I have tried with the latest version of my channel (Stable or Edge)
   - [ ] I have uploaded Diagnostics
@@ -30,6 +29,7 @@ Please, help us understand the problem.  For instance:
 -->
   - Windows Version:
   - Docker Desktop Version:
+  - Are you running inside a virtualized Windows e.g. on a cloud server or on a mac VM:
 
 ### Steps to reproduce the behavior
 <!--
