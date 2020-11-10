@@ -12,11 +12,12 @@ to look for answers.
 
 ### Support
 
-Users from the Docker Desktop community trade tips and tricks and discuss Docker Desktop
-for Windows in [the user forum](https://forums.docker.com/c/docker-desktop-for-windows).
+Support for Docker Desktop is available to Docker customers on a Pro or Team plan
+by completing the [Desktop support form](https://hub.docker.com/support/desktop/).
 
-Problems with the Docker Desktop for Windows software can be filed as issues in this
-([docker/for-win](https://github.com/docker/for-win)) repository.
+Bugs with the Docker Desktop for Windows software can also be filed as issues in this
+([docker/for-win](https://github.com/docker/for-win)) repository, which we respond to
+on a best-effort basis.
 
 ### This Repository
 
