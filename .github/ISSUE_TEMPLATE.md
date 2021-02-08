@@ -1,13 +1,20 @@
 <!--
-Please, check https://docs.docker.com/docker-for-windows/troubleshoot/.
-Issues without a clear description, logs and details cannot be debugged, and will be closed.
-Please give your issue a clear title, not just a one-word statement or a diagnostics ID.
 
-Issues unrelated to Docker Desktop will be closed.  In particular, see
-  - https://github.com/moby/moby/issues for Docker daemon, e.g. running on Windows Server with Docker EE
-  - https://github.com/docker/compose/issues for docker-compose
-  - https://github.com/docker/machine/issues for docker-machine
-  - https://github.com/docker/docker.github.io/issues for the documentation
+************************************************************************************
+*READ ME FIRST*
+
+This repository is for reporting bugs with the Docker Desktop for Windows software,
+which we respond to on a best-effort basis.
+
+Support requests in this repository (i.e., trouble installing or using the
+software) will be ignored, but personalized support is available to Docker Pro and
+Team customers at https://hub.docker.com/support/desktop/, and community support is
+available from the Docker community Slack (https://www.docker.com/docker-community).
+
+Issues without a clear title, description, and diagnostics ID cannot be debugged,
+and will be closed.
+************************************************************************************
+
 -->
 
 <!-- Click these checkboxes after submitting, or place an "x" in them. -->
@@ -15,8 +22,6 @@ Issues unrelated to Docker Desktop will be closed.  In particular, see
   - [ ] I have tried disabling enabled experimental features
   - [ ] I have uploaded Diagnostics
   - Diagnostics ID:
-  - [ ] I am using the Docker WSL2 Backend
-  - [ ] I am using the Docker Hyper-V Backend
 
 ### Actual behavior
 
@@ -33,7 +38,7 @@ Please, help us understand the problem.  For instance:
   - Windows Version:
   - Docker Desktop Version:
   - WSL2 or Hyper-V backend?  
-  - Are you running inside a virtualized Windows e.g. on a cloud server or on a mac VM:
+  - Are you running inside a virtualized Windows e.g. on a cloud server or a VM:
 
 ### Steps to reproduce the behavior
 <!--
