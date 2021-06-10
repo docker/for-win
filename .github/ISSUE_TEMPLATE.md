@@ -15,6 +15,11 @@ Issues without sufficient detail to debug them will be closed. They generally ne
 a clear title and description, steps to reproduce, and a diagnostics ID. See
 https://docs.docker.com/docker-for-windows/troubleshoot/#diagnose-and-feedback for
 how to generate a diagnostics ID either from inside the app or from the command line.
+From a Powershell window, you can run the following command to upload diagnostics
+and get a Diagnostics ID:
+```
+& "C:\Program Files\Docker\Docker\resources\com.docker.diagnose.exe" gather -upload
+```
 ************************************************************************************
 
 -->
