@@ -42,6 +42,8 @@ Please, help us understand the problem.  For instance:
   - WSL2 or Hyper-V backend?  
   - Are you running inside a virtualized Windows e.g. on a cloud server or a VM:
 
+### Output of `& "C:\Program Files\Docker\Docker\resources\com.docker.diagnose.exe" check`
+
 ### Steps to reproduce the behavior
 <!--
 A reproducible case, Dockerfiles with reproduction inside is best.
